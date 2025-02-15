@@ -1,4 +1,4 @@
-# CPU Design Labs
+# CPU Design Labs by professor 葉宗泰
 
 This repository contains a series of CPU design labs, covering single-cycle CPU, pipelined CPU, and cache management. Each lab includes Verilog/VHDL implementations and can be simulated using **ModelSim, Vivado, or Quartus**.
 
