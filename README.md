@@ -1,4 +1,6 @@
-# CPU Design Labs by professor 葉宗泰
+# CPU Design Labs
+
+【 NYCU 2024 spring Semester 】by Professor 葉宗泰
 
 This repository contains a series of CPU design labs, covering single-cycle CPU, pipelined CPU, and cache management. Each lab includes Verilog/VHDL implementations and can be simulated using **ModelSim, Vivado, or Quartus**.
 
